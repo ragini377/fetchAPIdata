@@ -83,8 +83,8 @@ If fetchData1 changes on every render, the effect will also run on every render.
 44. export default App; this line means App page export and we used in main.jsx
 
 45.  Deleted all Alternatives pages and folder
-
-my english is little bit week, I tried to explain hook concept . Honestly I undrstand hook concept- useState,UseCallback,useEffect and i will use in my futer projects.
+46. That's it 
+47.    my english is little bit week, I tried to explain hook concept . Honestly I undrstand hook concept- useState,UseCallback,useEffect and i will use in my futer projects.
 
 
 
