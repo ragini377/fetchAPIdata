@@ -84,6 +84,7 @@ If fetchData1 changes on every render, the effect will also run on every render.
 
 45.  Deleted all Alternatives pages and folder
 
+my english is little bit week, I tried to explain hook concept . Honestly I undrstand hook concept- useState,UseCallback,useEffect and i will use in my futer projects.
 
 
 
